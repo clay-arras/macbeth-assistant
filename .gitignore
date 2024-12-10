@@ -1,0 +1,6 @@
+data/
+chroma/
+
+.DS_Store
+.env
+.conda/
